@@ -65,7 +65,6 @@ The database comes pre-populated with these user accounts created as part of the
    ```
    npm run db:seed
    ```
-   By default this will use the "development" configuration, but the desired config can be passed as an argument if required.
 
 7) Start the server. You can run the server using node or nodemon:
    * Start the server with node. This starts the NodeGoat application at [http://localhost:4000/](http://localhost:4000/):
